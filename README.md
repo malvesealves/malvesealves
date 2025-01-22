@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Sobre mim
+## About
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software ao longo de 6 anos de carreira.
-- 🎓 Bacharel em Engenharia Elétrica na UFRJ e pós-graduado em Engenharia de Software na PUC Rio.
-- 💼 Trabalhando como Desenvolvedor Sênior/Engenheiro de Software/Líder Técnico (C# .NET Core Angular) na Unimed PR.
-- 🌱 Aprendendo mais sobre Cloud Plataforms e Flutter.
+- 🤔 Exploring new technologies and developing software solutions throughout 6 years of career.
+- 🎓 Bachelor's degree in Electrical Engineering from UFRJ and postgraduate degree in Software Engineering from PUC Rio.
+- 💼 Working as a Senior Developer/Software Engineer/Technical Lead (C# .NET Core Angular) at Unimed PR.
+- 🌱 Learning more about Cloud Platforms and Flutter.
 
-## Tecnologias
+## Technologies
 
-**Linguagens**
+**Languages**
 
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C&logoColor=00599C)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 ![XUnit](https://img.shields.io/badge/-XUnit-333333?style=flat&logo=xunit)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
 
-**Bibliotecas**
+**Libraries**
 
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=materialui)
 
-**Ferramentas**
+**Tools**
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -73,13 +73,13 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
 
-**Competências**
+**Skills**
 
 ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=Scrum)
 ![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat&logo=Kanban)
 ![Lean](https://img.shields.io/badge/-Lean-333333?style=flat&logo=Lean)
 
-## Onde me encontrar
+## Where to find me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mateus-alves-e-alves/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.alvesealves@gmail.com)](mailto:m.alvesealves@gmail.com)
