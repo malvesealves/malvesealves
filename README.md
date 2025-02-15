@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=Elasticsearch)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+![Kafka](https://img.shields.io/static/v1?label=&message=Apache%20Kafka&logo=apache-kafka&color=4f4f4f)
 <!-- ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) -->
 
 **DevOps**
