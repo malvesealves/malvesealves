@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🤔 Exploring new technologies and developing software solutions throughout 6 years of career.
 - 🎓 Bachelor's degree in Electrical Engineering from UFRJ and postgraduate degree in Software Engineering from PUC Rio.
-- 💼 Working as a Senior Developer/Software Engineer/Technical Lead (C# .NET Core Angular) at Unimed PR.
+- 💼 Working as a Senior Developer/Software Engineer/Technical Leader at Unimed PR.
 - 🌱 Learning more about Cloud Platforms (Azure and AWS) and Flutter.
 
 ## Technologies
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=dotnet&logoColor=00599C)
 ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-333333?style=flat&logo=dotnet&logoColor=00599C)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-333333?style=flat)
 ![NHibernate](https://img.shields.io/badge/-NHibernate-333333?style=flat)
