@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## About
 
-- 🤔 Exploring new technologies and developing software solutions throughout 7 years of career.
+- 🤔 Exploring new technologies and developing software solutions throughout 8 years of career.
 - 🎓 Bachelor's degree in Electrical Engineering from UFRJ and postgraduate degree in Software Engineering from PUC Rio.
-- 💼 Working as a Senior Developer/Software Engineer/Technical Leader at Unimed PR.
+- 💼 Working as a Senior Software Engineer/Technical Leader at Unimed PR.
 - 🌱 Learning more about Cloud Platforms (Azure and AWS) and Flutter.
 
 ## Technologies
